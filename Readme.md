@@ -2,7 +2,7 @@
 This repository should contain everything you need to write about Payload. Please **do** send requests to `hey@payload.pk` and help us make this document better.
 
 ## Team
-Please see `/team` for pictures
+Please see `/team` for everyone pictures
 
 **Humans:**
 - **Amin Shah Gilani**:
